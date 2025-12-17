@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**rehithk/rehithk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rehith
 
-Here are some ideas to get you started:
+Software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech
+React · Ruby on Rails · GraphQL · PostgreSQL · TypeScript
+
+---
+
+### Principles
+- Simple data models
+- Predictable APIs
+- Performance-conscious code
+- Tests that protect behavior
+
