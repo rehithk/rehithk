@@ -55,13 +55,13 @@ I believe in building software that is:
 Designing clean, intuitive data structures that are easy to understand, maintain, and scale. Complexity should come from business logic, not data design.
 
 ### 📡 Predictable APIs
-Creating well-documented, consistent APIs that follow established conventions and make it easy for developers to integrate and build upon. Every endpoint should behave as expected.
+Creating well documented, consistent APIs that follow established conventions and make it easy for developers to integrate and build upon. Every endpoint should behave as expected.
 
 ### ⚡ Performance-Conscious Code
-Writing efficient code that respects resources and user time. Performance optimization isn't an afterthought—it's part of the development process from day one.
+Writing efficient code that respects resources and user time. Performance optimization isn't an afterthought it's part of the development process from day one.
 
 ### 🛡️ Tests That Protect Behavior
-Prioritizing comprehensive testing that ensures code behaves correctly today and tomorrow. Tests should verify behavior, not just coverage metrics. A well-tested codebase is a confident codebase.
+Prioritizing comprehensive testing that ensures code behaves correctly today and tomorrow. Tests should verify behavior, not just coverage metrics. A well tested codebase is a confident codebase.
 
 ---
 
