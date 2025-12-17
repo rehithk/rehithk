@@ -1,65 +1,40 @@
-<div align="center">
+# Technical Skills
 
-# 👋 Hey there! I'm Rehith
+## Languages
+- JavaScript/TypeScript
+- Python
+- Java
+- SQL
+- HTML/CSS
+- C++
 
-**Building elegant, scalable software solutions** | *Software Engineer*
+## Frameworks & Libraries
+- React
+- Node.js
+- Django
+- Express.js
+- Spring Boot
+- Vue.js
+- Next.js
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rehithk&style=flat-square&color=blue)](https://github.com/rehithk)
+## Tools & Technologies
+- Git & GitHub
+- Docker
+- Kubernetes
+- AWS
+- CI/CD Pipelines
+- Jest & Testing Frameworks
+- VS Code
+- MongoDB
+- PostgreSQL
+- Webpack
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Core Principles
-
-```
-┌─────────────────────────────────────────┐
-│ ✨ Simple Data Models                   │
-│ 🔄 Predictable APIs                     │
-│ ⚡ Performance-Conscious Code           │
-│ 🧪 Tests That Protect Behavior          │
-└─────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rehith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehithk&show_icons=true&theme=tokyonight)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[GitHub](https://github.com/rehithk) • [Portfolio](https://rehithk.dev) • [Contact](mailto:hello@rehithk.dev)
-
-</div>
-
----
-
-<div align="center">
-
-**Crafting code with intention** 💻 *One commit at a time*
-
-</div>
+## Principles
+- **Clean Code**: Writing maintainable, readable, and well-documented code
+- **Test-Driven Development**: Prioritizing unit tests and integration tests
+- **Performance Optimization**: Focusing on efficiency and scalability
+- **Security First**: Implementing best practices for secure development
+- **Continuous Learning**: Staying updated with latest technologies and best practices
+- **Collaboration**: Working effectively with team members and stakeholders
+- **Agile Methodology**: Following iterative development and sprint cycles
+- **DRY Principle**: Avoiding code duplication and promoting reusability
